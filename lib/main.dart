@@ -1,3 +1,4 @@
+
 // Bethany Hope Cabristante: "The word happiness is to vague so I hope you find life worth living everyday"
 // David Bryan Barcelona: "Take the risk or lose the chance"
 
