@@ -1,3 +1,6 @@
+//Bethany Hope Cabristane: "The word happiness is to vague, so I hope you find life worth living everyday"
+//David Bryan Barcelona: "Take the risk or lose the chance" 
+
 import 'package:flutter/material.dart';
 
 void main() {
